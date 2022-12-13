@@ -1,0 +1,15 @@
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\bin\Debug\net6.0\ArrayClass.exe
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\bin\Debug\net6.0\ArrayClass.deps.json
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\bin\Debug\net6.0\ArrayClass.runtimeconfig.json
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\bin\Debug\net6.0\ArrayClass.dll
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\bin\Debug\net6.0\ArrayClass.pdb
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.csproj.AssemblyReference.cache
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.AssemblyInfoInputs.cache
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.AssemblyInfo.cs
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.dll
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\obj\Debug\net6.0\refint\ArrayClass.dll
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.pdb
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\obj\Debug\net6.0\ArrayClass.genruntimeconfig.cache
+C:\Users\cavid\Desktop\C# codes\ArrayClass\ArrayClass\obj\Debug\net6.0\ref\ArrayClass.dll
